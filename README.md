@@ -1,2 +1,2 @@
-# Ada_Tech_Projeto6
-Projeto Final Ada Tech + IFood
+# Ada Tech + IFood - Projeto6
+Projeto Final do curso Vem ser Tech + IFood. Neste projeto ficamos responsáveis por realizar todas as etapas de um analista/cientista de dados. Escolha de dataset, processo de ETL, normalização dos dados, relacionamento entre tabelas, criação de medidas e gerar insights valiosos através de gráficos dinâmicos. Tudo isso usando bibliotecas como pandas, numpy, matplotlib, seaborn, scipy etc.
